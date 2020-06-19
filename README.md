@@ -34,6 +34,9 @@ Icons for adding Resources
 | 📄 | Document (i.e. Microsoft Word, Google Doc, etc.)
 | 📣 | Statistic/Fact (Be sure to link sources!) |
 
+## Wanna do something now?
+[Justice for Breonna](https://justiceforbreonna.org/)
+
 ## Learning Resources ✊🏿 
 
 ### Are you just getting started or wondering 'What do they mean by anti-racism?'
@@ -68,6 +71,81 @@ Here are a few organizations to consider:
 * [Audre Lorde Project](https://twitter.com/audrelorde)
 * [Black Women’s Blueprint](https://twitter.com/blackwomensbp)
 * [Color Of Change](http://twitter.com/colorofchange)
+
+
+### 🖍️ Resources for white parents to raise anti-racist children:
+
+#### Books:
+ 🖍️📗  [Coretta Scott King Book Award Winners: books for children and young adults](https://www.commonsensemedia.org/lists/coretta-scott-king-book-award-winners)
+ 
+ 🖍️📗  [31 Children&#39;s books to support conversations on race, racism and resistance](https://www.embracerace.org/resources/26-childrens-books-to-support-conversations-on-race-racism-resistance)
+
+
+#### Podcasts:
+  🖍️🎵 [Parenting Forward podcast episode &#39;Five Pandemic Parenting Lessons with Cindy Wang Brandt&#39;](https://podcasts.apple.com/us/podcast/parenting-forward/id1403686245?i=1000474951309)
+  
+  🖍️🎵 [Fare of the Free Child podcast](https://www.raisingfreepeople.com/podcast/)
+  
+  🖍️🎵 [Integrated Schools podcast episode &quot;Raising White Kids with Jennifer Harvey&quot;](https://integratedschools.simplecast.com/episodes/harvey)
+
+
+#### Articles:
+  🖍️📰  [How White Parents Can Talk To Their Kids About Race | NPR](https://www.npr.org/2020/06/03/869071246/how-white-parents-can-talk-to-their-kids-about-race)
+  
+  🖍️📰  [Teaching Your Child About Black History Month | PBS](https://www.pbs.org/parents/thrive/teaching-your-child-about-black-history-month)
+  
+  🖍️📰   [Your Kids Aren&#39;t Too Young to Talk About Race: Resource Roundup from Pretty Good](https://www.prettygooddesign.org/blog/Blog%20Post%20Title%20One-5new4)
+ 
+ 🖍️📰  The Conscious Kid: follow them on [Instagram](https://www.instagram.com/theconsciouskid/) and consider signing up for their [Patreon](https://www.patreon.com/theconsciouskid)
+
+
+### Videos to watch:
+
+🍿 [Black Feminism &amp; the Movement for Black Lives: Barbara Smith, Reina Gossett, Charlene Carruthers (50:48)](https://youtu.be/eV3nnFheQRo)
+
+🍿 [**Dr. Robin DiAngelo discusses &#39;White Fragility&#39; (1:23:30)**](https://youtu.be/45ey4jgoxeU)
+
+🍿 [&quot;How Studying Privilege Systems Can Strengthen Compassion&quot;](https://youtu.be/e-BY9UEewHw) | Peggy McIntosh at TEDxTimberlaneSchools (18:26)
+
+
+### Articles to read:
+
+- [&quot;America&#39;s Racial Contract Is Killing Us&quot; by Adam Serwer | Atlantic (May 8, 2020)](https://www.theatlantic.com/ideas/archive/2020/05/americas-racial-contract-showing/611389/)
+- [Ella Baker and the Black Freedom Movement (Mentoring a New Generation of Activists](https://drive.google.com/a/glaze0101.com/file/d/0By2bSlBi5slDbXB2enJ0RzN6c3M/view?usp=sharing)
+- [&quot;My Life as an Undocumented Immigrant&quot; **by Jose Antonio Vargas | NYT Mag (June 22, 2011)**](https://www.nytimes.com/2011/06/26/magazine/my-life-as-an-undocumented-immigrant.html)
+- [The 1619 Project (all the articles) | The New York Times Magazine](https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html)
+- [The Combahee River Collective Statement](http://circuitous.org/scraps/combahee.html)
+- [&quot;The Intersectionality Wars&quot; by Jane Coaston | Vox (May 28, 2019)](https://www.vox.com/the-highlight/2019/5/20/18542843/intersectionality-conservatism-law-race-gender-discrimination)
+- [Tips for Creating Effective White Caucus Groups developed by Craig Elliott PhD](http://convention.myacpa.org/houston2018/wp-content/uploads/2017/11/Guidelines-for-Effective-White-Caucuses.pdf)
+- [&quot;Where do I donate? Why is the uprising violent? Should I go protest?&quot;](https://medium.com/@cemwrites/where-do-i-donate-why-is-the-uprising-violent-should-i-go-protest-5cefeac37ef9) by Courtney Martin (June 1, 2020)
+- [&quot;White Privilege: Unpacking the Invisible Knapsack&quot; by Knapsack Peggy McIntosh](http://convention.myacpa.org/houston2018/wp-content/uploads/2017/11/UnpackingTheKnapsack.pdf)
+- [&quot;Who Gets to Be Afraid in America?&quot; by Dr. Ibram X. Kendi | Atlantic (May 12, 2020)](https://www.theatlantic.com/ideas/archive/2020/05/ahmaud-arbery/611539/)
+
+### 📗 Books to read
+
+- [Black Feminist Thought](https://books.google.com/books/about/Black_Feminist_Thought.html?id=cdtYsU3zR14C) by Patricia Hill Collins
+- [Eloquent Rage: A Black Feminist Discovers Her Superpower](https://read.macmillan.com/lp/eloquent-rage/) by Dr. Brittney Cooper
+- [Heavy: An American Memoir](https://www.kieselaymon.com/heavy) by Kiese Laymon
+- [How To Be An Antiracist](https://www.ibramxkendi.com/how-to-be-an-antiracist-1) by Dr. Ibram X. Kendi
+- [I Know Why the Caged Bird Sings](https://www.penguinrandomhouse.com/books/3924/i-know-why-the-caged-bird-sings-by-maya-angelou/) by Maya [Angelou](https://chipublib.bibliocommons.com/search?q=%22Angelou%2C+Maya%22&amp;search_category=author&amp;t=author)
+- [Invisible No More: Police Violence Against Black Women and Women of Color](http://invisiblenomorebook.com/the-book/) by Andrea J. Ritchie
+- [Just Mercy](https://justmercy.eji.org/) by Bryan Stevenson
+- [Me and White Supremacy](http://laylafsaad.com/meandwhitesupremacy) by Layla F. Saad
+- [Raising Our Hands](https://www.jennaarnold.com/book) by Jenna Arnold
+- [Redefining Realness](https://www.simonandschuster.com/books/Redefining-Realness/Janet-Mock/9781476709130) by Janet [Mock](https://chipublib.bibliocommons.com/search?q=%22Mock%2C+Janet%22&amp;search_category=author&amp;t=author)
+- [Sister Outsider](https://www.penguinrandomhouse.com/books/198292/sister-outsider-by-audre-lorde/) by Audre Lorde
+- [So You Want to Talk About Race](https://www.sealpress.com/titles/ijeoma-oluo/so-you-want-to-talk-about-race/9781580056779/) by Ijeoma Oluo
+- [The Bluest Eye](https://www.penguinrandomhouse.com/books/117662/the-bluest-eye-by-toni-morrison/) by Toni Morrison
+- [The Fire Next Time](https://www.penguinrandomhouse.com/books/7753/the-fire-next-time-by-james-baldwin/9780679744726/teachers-guide/) by James Baldwin
+- [The New Jim Crow: Mass Incarceration in the Age of Colorblindness](https://newjimcrow.com/)
+by Michelle Alexander
+- [The Next American Revolution: Sustainable Activism for the Twenty-First Century](https://www.ucpress.edu/book/9780520272590/the-next-american-revolution)
+by Grace Lee Boggs
+- [The Warmth of Other Suns](https://www.penguinrandomhouse.com/books/190696/the-warmth-of-other-suns-by-isabel-wilkerson/) by Isabel Wilkerson
+- [Their Eyes Were Watching God](https://www.zoranealehurston.com/books/their-eyes-were-watching-god/) by Zora Neale Hurston
+- [This Bridge Called My Back: Writings by Radical Women of Color](http://v/) by Cherríe Moraga
+- [When Affirmative Action Was White: An Untold History of Racial Inequality in Twentieth-Century America](https://books.google.com/books/about/When_Affirmative_Action_was_White.html?id=cfhneJPcD38C) by Ira Katznelson
+- [White Fragility: Why It&#39;s So Hard for White People to Talk About Racism](https://robindiangelo.com/publications/) by Robin DiAngelo, PhD
 
 ### Films and TV series to watch:
 
