@@ -63,12 +63,12 @@ Points from video:
 
 📣  Some suburbs created rules / covenants forbidding selling homes to black people.
 Fair Housing Act passed in 1968. 
-** Does little to fix existing problems. 
-** Lives and generations already affected. 
-** Not really enforced. 
-** Home ownership major source of wealth in America.
-** Quality of education tied to property taxes.
-** Higher quality of education increases the value of homes (Remember neighborhoods were segregated and now generally still sclical). segregated.
+* Does little to fix existing problems. 
+* Lives and generations already affected. 
+* Not really enforced. 
+* Home ownership major source of wealth in America.
+* Quality of education tied to property taxes.
+* Higher quality of education increases the value of homes (Remember neighborhoods were segregated and now generally still sclical). segregated.
 
 🤔 Personal Thought: Think about it we are only two mortgages away from the Civil Rights Act and fair housing act. Which didn’t fix existing problems and aren’t always enforced.
 
