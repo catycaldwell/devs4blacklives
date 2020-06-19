@@ -62,7 +62,8 @@ Points from video:
 📣 In 1934 (and over the next 30 years), Neighbourhoods were redlined based on socio-economic status and RACE. “Negro and foreign-born” neighborhoods were redlined made it harder, if not impossible to buy / re-finance homes, leading to lower property values, neglect, unreliable city services and higher crime.
 
 📣  Some suburbs created rules / covenants forbidding selling homes to black people.
-Fair Housing Act passed in 1968. 
+
+### Fair Housing Act passed in 1968. 
 * Does little to fix existing problems. 
 * Lives and generations already affected. 
 * Not really enforced. 
