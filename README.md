@@ -28,6 +28,8 @@ Icons for adding Resources
 | 🌍 | Cross-language resources|
 | 🍿 | Video/Film to watch |
 | 📗 | Book
+| 📓 | Website or other list of resources
+| 📄 | Document (i.e. Microsoft Word, Google Doc, etc.)
 | 📣 | Statistic/Fact (Be sure to link sources!) |
 
 ## Learning Resources ✊🏿 
@@ -36,11 +38,11 @@ Icons for adding Resources
 
 🍿 Here are a series of short 1 minute videos on systemic racism in different areas of American life. Shows that systemic racism affects black people, but also other minorities. https://www.raceforward.org/videos/systemic-racism
 
-* Choose how much time you have each day to become more informed as step one to becoming an active ally to the black community. In this document there are links to the learning resources and a schedule of what to do each day. [Link to doc](https://docs.google.com/document/d/1H-Vxs6jEUByXylMS2BjGH1kQ7mEuZnHpPSs1Bpaqmw0/edit?usp=sharing)
+📄 Choose how much time you have each day to become more informed as step one to becoming an active ally to the black community. In this document there are links to the learning resources and a schedule of what to do each day. [Link to doc](https://docs.google.com/document/d/1H-Vxs6jEUByXylMS2BjGH1kQ7mEuZnHpPSs1Bpaqmw0/edit?usp=sharing)
 
 🍿 Here are a list of free films to watch to learn and support Black people and history: https://filmschoolrejects.com/free-movies-to-support-black-lives-matter/
 
-* Great website with a LOT of resources dedicated to teaching, learning, and growing in understanding/empathy about the experiences of Black folks in America: https://blacklivesamerica.wixsite.com/educate4blm
+📓 Great website with a LOT of resources dedicated to teaching, learning, and growing in understanding/empathy about the experiences of Black folks in America: https://blacklivesamerica.wixsite.com/educate4blm
 
 
 ### Are you just getting started or wondering 'What do they mean by anti-racism?'
