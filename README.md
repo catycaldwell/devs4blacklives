@@ -50,7 +50,9 @@ Icons for adding Resources
 
 📓 Great website with a LOT of resources dedicated to teaching, learning, and growing in understanding/empathy about the experiences of Black folks in America: https://blacklivesamerica.wixsite.com/educate4blm
 
-🤔 If your social media feeds are not still talking about Black Lives Matter, systemic racism, and police brutality, follow more Black people. Here are a few organizations to consider: 
+🤔 If your social media feeds are not still talking about Black Lives Matter, systemic racism, and police brutality, follow more Black people. 
+
+Here are a few organizations to consider: 
 
 #### Organizations to follow on social media:
 * [Antiracism Center](https://twitter.com/AntiracismCtr)
