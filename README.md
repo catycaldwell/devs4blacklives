@@ -7,7 +7,7 @@ BLACK LIVES MATTER!
 <table style="width: 100%; border-style: none;"><tr>
 <td style="width: 140px; text-align: center;"><a href=""><img width="128px" src="blmvs.png" alt="DevDiv 4 Black Lives"/></a></td>
 <td>
-<strong>DevDiv 4 Black Lives</strong><br />
+<strong> ✊🏿 DevDiv 4 Black Lives ✊🏿</strong><br />
 <i>Supporting Black Lives by collaboratively learning and sharing resources.<br />
 <strong><a href="https://catycaldwell.github.io">Learn more. Listen More. Do More!</a></strong></i>
 </td>
