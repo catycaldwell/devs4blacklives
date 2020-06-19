@@ -34,7 +34,7 @@ Here are a series of short 1 minute videos on systemic racism in different areas
 Shows that systemic racism affects black people, but also other minorities. 
 https://www.raceforward.org/videos/systemic-racism
 
-* Here are some statistics related to systemic racism:
+Here are some statistics related to systemic racism:
 
 📣 Net worth: The median net worth of a white family is $171,000, while that of a typical black family is $17,150: https://www.brookings.edu/blog/up-front/2020/02/27/examining-the-black-white-wealth-gap/
 
@@ -48,7 +48,7 @@ https://www.raceforward.org/videos/systemic-racism
 
 ## Housing segregation 
 
-* (really good 6 minute explanation of housing segregation history): https://www.facebook.com/NPR/videos/701877010588148/  
+(really good 6 minute explanation of housing segregation history): https://www.facebook.com/NPR/videos/701877010588148/  
 
 📣 Points from video:
 
@@ -80,8 +80,10 @@ https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=23
  
  ## Cross-cultural guides
  
- ### 🇪🇹 🇪🇷 ✊🏿 Talking to your Habesha family members about Black Lives Matter
-Read and share this [pdf](myLib/README.md)
+* 🇪🇹 🇪🇷 ✊🏿 Talking to your Habesha family members about Black Lives Matter
+Read and share this [pdf](HabeshaBLM.pdf)
+
+*
  
  
 
