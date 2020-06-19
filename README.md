@@ -35,7 +35,6 @@ Icons for adding Resources
 
 * Choose how much time you have each day to become more informed as step one to becoming an active ally to the black community. In this document there are links to the learning resources and a schedule of what to do each day. [Link to doc](https://docs.google.com/document/d/1H-Vxs6jEUByXylMS2BjGH1kQ7mEuZnHpPSs1Bpaqmw0/edit?usp=sharing)
 
-* various resources can be found at https://linktr.ee/blacklivesmatter
 
 
 ### Are you just getting started or wondering 'What do they mean by anti-racism?'
@@ -95,7 +94,7 @@ https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=23
 * Link to Chinese-language BLM resoures: https://bit.ly/chnarticlesblm2020
 
 ## Donate
-💰 https://linktr.ee/blacklivesmatter
+
 
  
  
