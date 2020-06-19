@@ -23,17 +23,24 @@ Icons for adding Resources
 | 🤔 | Moment for reflection/thinking|
 | ❓ | Pending resource check|
 | 💰 | Donation request |
+| 🖍️ | Resources for children |
 | 🛐 | Religious/Related to religion|
 | 🌍 | Cross-language resources
 | 📣 | Statistic/Fact (Be sure to link sources!) |
 
 ## Learning Resources ✊🏿 
 
-Here are a series of short 1 minute videos on systemic racism in different areas of American life. 
+### Small steps (Resources requiring 5 minutes or less of your time)
+* Here are a series of short 1 minute videos on systemic racism in different areas of American life. Shows that systemic racism affects black people, but also other minorities. https://www.raceforward.org/videos/systemic-racism
 
-Shows that systemic racism affects black people, but also other minorities. 
-https://www.raceforward.org/videos/systemic-racism
+* Choose how much time you have each day to become more informed as step one to becoming an active ally to the black community. In this document there are links to the learning resources and a schedule of what to do each day. [Link to doc](https://docs.google.com/document/d/1H-Vxs6jEUByXylMS2BjGH1kQ7mEuZnHpPSs1Bpaqmw0/edit?usp=sharing)
 
+
+### Are you just getting started or wondering 'What do they mean by anti-racism?'
+* Here is the Anti-Racism for Beginners guide: http://antiracismforbeginners.com/
+
+
+### BLM Statistics
 Here are some statistics related to systemic racism:
 
 📣 Net worth: The median net worth of a white family is $171,000, while that of a typical black family is $17,150: https://www.brookings.edu/blog/up-front/2020/02/27/examining-the-black-white-wealth-gap/
@@ -80,10 +87,12 @@ https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=23
  
  ## Cross-cultural guides
  
-* 🇪🇹 🇪🇷 ✊🏿 Talking to your Habesha family members about Black Lives Matter
-Read and share this [pdf](HabeshaBLM.pdf)
+🇪🇹 🇪🇷 ✊🏿 Talk to your Habesha family members about Black Lives Matter
+* Read and share this [pdf](HabeshaBLM.pdf)
 
-*
+🇨🇳 Mandarin resources for BLM
+* [Google doc](https://docs.google.com/document/d/1YK60qnUQbrIFVkU5mWBqRVYMBvNTXt_LTIA5DECEhfo/edit?usp=sharing) with _a lot_ of resources in Mandarin
+
  
  
 
