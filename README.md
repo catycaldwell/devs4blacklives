@@ -49,7 +49,7 @@ Icons for adding Resources
 * Here is the Anti-Racism for Beginners guide: http://antiracismforbeginners.com/
 
 
-### BLM Statistics
+## BLM Statistics
 Here are some statistics related to systemic racism:
 
 📣 Net worth: The median net worth of a white family is $171,000, while that of a typical black family is $17,150: https://www.brookings.edu/blog/up-front/2020/02/27/examining-the-black-white-wealth-gap/
@@ -93,7 +93,7 @@ https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=23
 
  🛐  For Christians, how has America eagerly tried to fix the problems caused by racism and slavery in its history? Is America practicing restorative justice? https://www.youtube.com/watch?v=A14THPoc4-4
  
- ### 🌍 Cross-cultural guides
+ ## 🌍 Cross-cultural guides
  
 🇪🇹 🇪🇷 ✊🏿 Talk to your Habesha family members about Black Lives Matter! Read and share this [pdf](HabeshaBLM.pdf)
 
