@@ -35,6 +35,8 @@ Icons for adding Resources
 
 * Choose how much time you have each day to become more informed as step one to becoming an active ally to the black community. In this document there are links to the learning resources and a schedule of what to do each day. [Link to doc](https://docs.google.com/document/d/1H-Vxs6jEUByXylMS2BjGH1kQ7mEuZnHpPSs1Bpaqmw0/edit?usp=sharing)
 
+* various resources can be found at https://linktr.ee/blacklivesmatter
+
 
 ### Are you just getting started or wondering 'What do they mean by anti-racism?'
 * Here is the Anti-Racism for Beginners guide: http://antiracismforbeginners.com/
@@ -53,7 +55,7 @@ Here are some statistics related to systemic racism:
 
 📣 African-american and Asian-american resumes were about  twice more likely to get  call-backs when whitened and / or scrubbed of racial clues. https://hbswk.hbs.edu/item/minorities-who-whiten-job-resumes-get-more-interviews
 
-## Housing segregation 
+### Housing segregation 
 
 (really good 6 minute explanation of housing segregation history): https://www.facebook.com/NPR/videos/701877010588148/  
 
@@ -73,7 +75,7 @@ Points from video:
 
 🤔 Personal Thought: Think about it we are only two mortgages away from the Civil Rights Act and fair housing act. Which didn’t fix existing problems and aren’t always enforced.
 
-## Health 
+### Health 
 
 📣 People of color are more likely to live near industrial plants that pollute the environment and further from grocery races. This leads to higher rates of certain cancers and asthma. This also leads to problems with police. Segregation makes racial profiling of neighborhoods more likely. Leads to lower trust of police.
 
@@ -84,7 +86,7 @@ https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=23
 
  🛐  For Christians, how has America eagerly tried to fix the problems caused by racism and slavery in its history? Is America practicing restorative justice? https://www.youtube.com/watch?v=A14THPoc4-4
  
- ## Cross-cultural guides
+ ### 🌍 Cross-cultural guides
  
 🇪🇹 🇪🇷 ✊🏿 Talk to your Habesha family members about Black Lives Matter! Read and share this [pdf](HabeshaBLM.pdf)
 
@@ -92,7 +94,8 @@ https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=23
 * [Google doc](https://docs.google.com/document/d/1YK60qnUQbrIFVkU5mWBqRVYMBvNTXt_LTIA5DECEhfo/edit?usp=sharing) with _a lot_ of resources in Mandarin
 * Link to Chinese-language BLM resoures: https://bit.ly/chnarticlesblm2020
 
-
+## Donate
+💰 https://linktr.ee/blacklivesmatter
 
  
  
