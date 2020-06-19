@@ -60,30 +60,51 @@ Icons for adding Resources
 
 ### Films and TV series to watch:
 🍿 13th (Ava DuVernay) — Netflix
+
 🍿 American Son (Kenny Leon) — Netflix
+
 🍿 Black Power Mixtape: 1967-1975 — Available to rent
+
 🍿 Blindspotting (Carlos López Estrada) — Hulu with Cinemax or available to rent
+
 🍿 Clemency (Chinonye Chukwu) — Available to rent
+
 🍿 Dear White People (Justin Simien) — Netflix
+
 🍿 Fruitvale Station (Ryan Coogler) — Available to rent
+
 🍿 I Am Not Your Negro (James Baldwin doc) — Available to rent or on Kanopy
+
 🍿 If Beale Street Could Talk (Barry Jenkins) — Hulu
+
 🍿 Just Mercy (Destin Daniel Cretton) — Available to rent for free in June in the U.S.
+
 🍿 King In The Wilderness  — HBO
+
 🍿 See You Yesterday (Stefon Bristol) — Netflix
+
 🍿 Selma (Ava DuVernay) — Available to rent for free in June in the U.S.
+
 🍿 The Black Panthers: Vanguard of the Revolution — Available to rent
+
 🍿 When They See Us (Ava DuVernay) — Netflix
 
 
 ### Podcasts 
 🎵 [1619 (New York Times)](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html)
+
 🎵 [About Race](https://www.showaboutrace.com/)
+
 🎵 [Code Switch (NPR)](https://www.npr.org/sections/codeswitch/)
+
 🎵 [Intersectionality Matters! hosted by Kimberlé Crenshaw](https://podcasts.apple.com/us/podcast/intersectionality-matters/id1441348908)
+
 🎵 [Momentum: A Race Forward Podcast](https://www.raceforward.org/media/podcast/momentum-race-forward-podcast)
+
 🎵 [Pod For The Cause (from The Leadership Conference on Civil & Human Rights)](https://civilrights.org/podforthecause/)
+
 🎵 [Pod Save the People (Crooked Media)](https://crooked.com/podcast-series/pod-save-the-people/)
+
 🎵 [Seeing White](https://www.sceneonradio.org/seeing-white/)
 
 
@@ -115,17 +136,24 @@ Points from video:
 
 📣  Some suburbs created rules / covenants forbidding selling homes to black people.
 
+
 📣 Fair Housing Act (FHA) passed in 1968. However, FHA Does little to fix existing problems that were created by redlining, and it wasn't ever enforced.  
+
 
 📣 Home ownership is the major source of wealth in America, and Black families have much less access to home ownership.
 
+
 📣 Quality of education tied to property taxes. A higher quality of education in turn increases the value of homes, resulting in a feedback loop resulting in more money going toward richer, whiter neighborhoods.
+
 
 📣 Urban planning which benefits those richer neighborhoods was often at the expense of the areas which people of color lived in. These communities are more likely to be underserved by grocery stores, limiting access to fresh food.
 
+
 📣 Black/African-American folks are also more likely to live in places where water is not drinkable. [Note that the water in Flint, MI is still not drinkable, *six* years later, during the COVID-19 pandemic.](https://en.wikipedia.org/wiki/Flint_water_crisis)
 
+
 📣 [The segregation of redlined neighborhoods persists to the present day](https://ncrc.org/holc/).
+
 
 📣 Segregation makes police racial profiling of neighborhoods more likely, camouflaged as *spatial profiling*, where living in certain areas increases the likelihood of being stopped by the police. This profiling and aggressive policing leads to lower trust of police.
 
@@ -147,8 +175,11 @@ https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=23
 Black women and femmes, and Black trans people experience layered oppression on multiple axes of their identities. When learning and participating in activism, it is important to make sure that you are following the lead of and uplifting *all* Black people, not only Black men. Black Trans Lives Matter.
 
 Here are some of readings to start with which contain several links:
+
 📓  https://www.vox.com/the-highlight/2019/5/20/18542843/intersectionality-conservatism-law-race-gender-discrimination?__c=1
+
 📓  https://www.cosmopolitan.com/politics/a32867836/black-trans-lives-matter-how-to-help-protest-donate/
+
 📓  https://www.teenvogue.com/story/the-black-lives-matter-movement-must-include-trans-people
  
  ## 🌍 Cross-cultural guides
