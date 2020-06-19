@@ -57,11 +57,11 @@ Here are some statistics related to systemic racism:
 
 (really good 6 minute explanation of housing segregation history): https://www.facebook.com/NPR/videos/701877010588148/  
 
-📣 Points from video:
+Points from video:
 
-* In 1934 (and over the next 30 years), Neighbourhoods were redlined based on socio-economic status and RACE. “Negro and foreign-born” neighborhoods were redlined made it harder, if not impossible to buy / re-finance homes, leading to lower property values, neglect, unreliable city services and higher crime.
+📣 In 1934 (and over the next 30 years), Neighbourhoods were redlined based on socio-economic status and RACE. “Negro and foreign-born” neighborhoods were redlined made it harder, if not impossible to buy / re-finance homes, leading to lower property values, neglect, unreliable city services and higher crime.
 
-* Some suburbs created rules / covenants forbidding selling homes to black people.
+📣  Some suburbs created rules / covenants forbidding selling homes to black people.
 Fair Housing Act passed in 1968. 
 ** Does little to fix existing problems. 
 ** Lives and generations already affected. 
@@ -74,9 +74,7 @@ Fair Housing Act passed in 1968.
 
 ## Health 
 
-📣 People of color are more likely to live near industrial plants that pollute the environment and further from grocery races. * This leads to higher rates of certain cancers and asthma.
-
-* This also leads to problems with police. Segregation makes racial profiling of neighborhoods more likely. Leads to lower trust of police.
+📣 People of color are more likely to live near industrial plants that pollute the environment and further from grocery races. This leads to higher rates of certain cancers and asthma. This also leads to problems with police. Segregation makes racial profiling of neighborhoods more likely. Leads to lower trust of police.
 
 📣 Black babies have an infant mortality 2.3 times higher than that of non-hispanic white babies
 https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=23
@@ -87,8 +85,7 @@ https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=23
  
  ## Cross-cultural guides
  
-🇪🇹 🇪🇷 ✊🏿 Talk to your Habesha family members about Black Lives Matter
-* Read and share this [pdf](HabeshaBLM.pdf)
+🇪🇹 🇪🇷 ✊🏿 Talk to your Habesha family members about Black Lives Matter! Read and share this [pdf](HabeshaBLM.pdf)
 
 🇨🇳 Mandarin resources for BLM
 * [Google doc](https://docs.google.com/document/d/1YK60qnUQbrIFVkU5mWBqRVYMBvNTXt_LTIA5DECEhfo/edit?usp=sharing) with _a lot_ of resources in Mandarin
