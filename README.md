@@ -87,8 +87,11 @@ https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=23
  
 🇪🇹 🇪🇷 ✊🏿 Talk to your Habesha family members about Black Lives Matter! Read and share this [pdf](HabeshaBLM.pdf)
 
-🇨🇳 Mandarin resources for BLM
+🇨🇳 Chinese-language resources for BLM
 * [Google doc](https://docs.google.com/document/d/1YK60qnUQbrIFVkU5mWBqRVYMBvNTXt_LTIA5DECEhfo/edit?usp=sharing) with _a lot_ of resources in Mandarin
+* Link to Chinese-language BLM resoures: https://bit.ly/chnarticlesblm2020
+
+
 
  
  
