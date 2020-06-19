@@ -30,6 +30,7 @@ Icons for adding Resources
 | 🎵|  Music, Podcast, Audiobook
 | 📗 | Book
 | 📓 | Website or other list of resources
+| 👩‍💻 | Tech/Microsoft related resources/info
 | 📄 | Document (i.e. Microsoft Word, Google Doc, etc.)
 | 📣 | Statistic/Fact (Be sure to link sources!) |
 
@@ -37,6 +38,10 @@ Icons for adding Resources
 
 ### Are you just getting started or wondering 'What do they mean by anti-racism?'
 📄  Here is the Anti-Racism for Beginners guide: http://antiracismforbeginners.com/
+
+### What's Juneteenth? And what can I as a Microsoftee do? 
+👩‍💻 https://aka.ms/juneteenth-education
+
 
 ### Small steps (Resources requiring 5 minutes or less of your time)
 
@@ -50,6 +55,10 @@ Icons for adding Resources
 
 📓 Great website with a LOT of resources dedicated to teaching, learning, and growing in understanding/empathy about the experiences of Black folks in America: https://blacklivesamerica.wixsite.com/educate4blm
 
+### Twitter threads full of resources
+* https://twitter.com/LashNolen/status/1265651372973625344?s=20
+* https://twitter.com/but_im_kim_tran/status/1258451728451559424?s=20
+
 🤔 If your social media feeds are not still talking about Black Lives Matter, systemic racism, and police brutality, follow more Black people. 
 
 Here are a few organizations to consider: 
@@ -61,7 +70,10 @@ Here are a few organizations to consider:
 * [Color Of Change](http://twitter.com/colorofchange)
 
 ### Films and TV series to watch:
+
 🍿 13th (Ava DuVernay) — Netflix
+
+🍿 16 Shots (2019) - Showtime
 
 🍿 American Son (Kenny Leon) — Netflix
 
@@ -71,7 +83,13 @@ Here are a few organizations to consider:
 
 🍿 Clemency (Chinonye Chukwu) — Available to rent
 
+🍿 Copwatch (2017) - Amazon Prime
+
+🍿 Crime + Punishment (Stephen Maing) - Hulu 
+
 🍿 Dear White People (Justin Simien) — Netflix
+
+🍿 Do Not Resist (2016) (Atkinson) - (Available for rental or purchase via Amazon, iTunes, YouTube, etc.)
 
 🍿 Fruitvale Station (Ryan Coogler) — Available to rent
 
@@ -83,13 +101,23 @@ Here are a few organizations to consider:
 
 🍿 King In The Wilderness  — HBO
 
+🍿 Let the Fire Burn (2013) - Kanopy 
+
+🍿 Let It Fall: Los Angeles 1982–1992 (2017) / LA 92 (2017) - Netflix
+
 🍿 See You Yesterday (Stefon Bristol) — Netflix
 
 🍿 Selma (Ava DuVernay) — Available to rent for free in June in the U.S.
 
 🍿 The Black Panthers: Vanguard of the Revolution — Available to rent
 
+🍿 The Death and Life of Marsha P. Johnson (2017) - Netflix
+
+🍿 The Force (2017) (Peter Nick) - Netflix 
+
 🍿 When They See Us (Ava DuVernay) — Netflix
+
+🍿 Whose Streets? (2017) - Hulu and Kanopy
 
 
 ### Podcasts 
