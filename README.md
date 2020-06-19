@@ -44,10 +44,11 @@ Icons for adding Resources
 
 📓 Great website with a LOT of resources dedicated to teaching, learning, and growing in understanding/empathy about the experiences of Black folks in America: https://blacklivesamerica.wixsite.com/educate4blm
 
+🤔 If your social media feeds are not still talking about Black Lives Matter, systemic racism, and police brutality, follow more Black people.
+
 
 ### Are you just getting started or wondering 'What do they mean by anti-racism?'
 * Here is the Anti-Racism for Beginners guide: http://antiracismforbeginners.com/
-
 
 ## BLM Statistics
 Here are some statistics related to systemic racism:
@@ -56,11 +57,11 @@ Here are some statistics related to systemic racism:
 
 * Factor in centuries of some being able to own land, houses and slaves, not have to deal with redlining or housing discrimination
 
-* Factor in impediments like the massacre  of Tulsa’s Greenwood district (“black wall street”) 
+* Factor in impediments like the [massacre of Tulsa’s Greenwood district (often referred to as “the Black Wall Street”)](https://en.wikipedia.org/wiki/Tulsa_race_massacre)
 
 📣 Black unemployment rate has been around twice that of the white unemployment rate for the last ~60 years: https://www.americanprogress.org/issues/economy/reports/2020/02/24/480743/persistence-black-white-unemployment-gap/
 
-📣 African-american and Asian-american resumes were about  twice more likely to get  call-backs when whitened and / or scrubbed of racial clues. https://hbswk.hbs.edu/item/minorities-who-whiten-job-resumes-get-more-interviews
+📣 African-american and Asian-american resumes were about twice more likely to get call-backs when whitened and / or scrubbed of racial clues. https://hbswk.hbs.edu/item/minorities-who-whiten-job-resumes-get-more-interviews
 
 ### Housing segregation 
 
@@ -72,19 +73,23 @@ Points from video:
 
 📣  Some suburbs created rules / covenants forbidding selling homes to black people.
 
-### Fair Housing Act passed in 1968. 
-* Does little to fix existing problems. 
+#### Fair Housing Act passed in 1968. 
+* Does little to fix existing problems that were created by redlining. 
 * Lives and generations already affected. 
 * Not really enforced. 
-* Home ownership major source of wealth in America.
-* Quality of education tied to property taxes.
-* Higher quality of education increases the value of homes (Remember neighborhoods were segregated and now generally still sclical). segregated.
+* Home ownership is the major source of wealth in America, and Black families have much less access to home ownership.
+* Quality of education tied to property taxes. A higher quality of education in turn increases the value of homes, resulting in a feedback loop resulting in more money going toward richer, whiter neighborhoods.
+* Urban planning which benefits those richer neighborhoods was often at the expense of the areas which people of color lived in.
+* These communities are more likely to be underserved by grocery stores, limiting access to fresh food.
+* They are also more likely to live in places where water is not drinkable. [Note that the water in Flint, MI is still not drinkable, *six* years later, during the COVID-19 pandemic.](https://en.wikipedia.org/wiki/Flint_water_crisis)
+* [The segregation of redlined neighborhoods persists to the present day](https://ncrc.org/holc/).
+* Segregation makes police racial profiling of neighborhoods more likely, camouflaged as *spatial profiling*, where living in certain areas increases the likelihood of being stopped by the police. This profiling and aggressive policing leads to lower trust of police.
 
 🤔 Personal Thought: Think about it we are only two mortgages away from the Civil Rights Act and fair housing act. Which didn’t fix existing problems and aren’t always enforced.
 
 ### Health 
 
-📣 People of color are more likely to live near industrial plants that pollute the environment and further from grocery races. This leads to higher rates of certain cancers and asthma. This also leads to problems with police. Segregation makes racial profiling of neighborhoods more likely. Leads to lower trust of police.
+📣 People of color are more likely to live near industrial plants that pollute the environment. The buildings in these areas often contain lead paint. This leads to [significantly higher rates of certain cancers, respiratory, and heart issues in Black and Brown communities.](https://nexusmedianews.com/pollution-race-and-the-search-for-justice-video-e962785d094d).
 
 📣 Black babies have an infant mortality 2.3 times higher than that of non-hispanic white babies
 https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=23
@@ -92,6 +97,15 @@ https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=23
 🤔 I will encourage you to think, why these huge disparities between different races? Could America's history of slavery and segregation play a part? Do current / recent policies play a part? Do people's biases and media portrayal of races play a part?
 
  🛐  For Christians, how has America eagerly tried to fix the problems caused by racism and slavery in its history? Is America practicing restorative justice? https://www.youtube.com/watch?v=A14THPoc4-4
+
+### Intersectionality
+
+Black women and femmes, and Black trans people experience layered oppression on multiple axes of their identities. When learning and participating in activism, it is important to make sure that you are following the lead of and uplifting *all* Black people, not only Black men. Black Trans Lives Matter.
+
+Here are some of readings to start with which contain several links:
+* https://www.vox.com/the-highlight/2019/5/20/18542843/intersectionality-conservatism-law-race-gender-discrimination?__c=1
+* https://www.cosmopolitan.com/politics/a32867836/black-trans-lives-matter-how-to-help-protest-donate/
+* https://www.teenvogue.com/story/the-black-lives-matter-movement-must-include-trans-people
  
  ## 🌍 Cross-cultural guides
  
