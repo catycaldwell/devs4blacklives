@@ -110,7 +110,7 @@ Here are a few organizations to consider:
 
 ### Articles to read:
 
-- [&quot;The Case for Reparations&quot; by Ta-nehesi Coates | Atlantic (June 2014)](https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/)
+- [&quot;The Case for Reparations&quot; by Ta-Nehisi Coates | Atlantic (June 2014)](https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/)
 - [&quot;America&#39;s Racial Contract Is Killing Us&quot; by Adam Serwer | Atlantic (May 8, 2020)](https://www.theatlantic.com/ideas/archive/2020/05/americas-racial-contract-showing/611389/)
 - [Ella Baker and the Black Freedom Movement (Mentoring a New Generation of Activists](https://drive.google.com/a/glaze0101.com/file/d/0By2bSlBi5slDbXB2enJ0RzN6c3M/view?usp=sharing)
 - [&quot;My Life as an Undocumented Immigrant&quot; **by Jose Antonio Vargas | NYT Mag (June 22, 2011)**](https://www.nytimes.com/2011/06/26/magazine/my-life-as-an-undocumented-immigrant.html)
