@@ -236,6 +236,8 @@ Here are some statistics related to systemic racism:
 
 📓 Library guide with information about policing and mass incarceration. https://libguides.princeton.edu/c.php?g=598338&p=4142165
 
+📓 Resource guide to Prisons, Punishment, and Criminality (lots of articles, books). https://medium.com/@micahherskind/resource-guide-prisons-policing-and-punishment-effb5e0f6620
+
 ### Housing segregation 
 
 (really good 6 minute explanation of housing segregation history): https://www.facebook.com/NPR/videos/701877010588148/  
