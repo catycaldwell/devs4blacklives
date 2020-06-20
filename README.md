@@ -234,6 +234,8 @@ Here are some statistics related to systemic racism:
 ### Policing and Mass-Incarceration
 🖍️ For 12-18 year olds, there are virtual classes throughout the summer 2020 teaching about  the history of policing in the United States. https://www.freedomlifted.com/blog/2020/6/10/a-history-of-policing-online-class-for-ages-12-18
 
+📓 Library guide with information about policing and mass incarceration. https://libguides.princeton.edu/c.php?g=598338&p=4142165
+
 ### Housing segregation 
 
 (really good 6 minute explanation of housing segregation history): https://www.facebook.com/NPR/videos/701877010588148/  
