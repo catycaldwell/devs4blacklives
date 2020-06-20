@@ -73,7 +73,7 @@ Here are a few organizations to consider:
 * [Color Of Change](http://twitter.com/colorofchange)
 
 
-### 🖍️ Resources for white parents to raise anti-racist children:
+### Resources for white parents to raise anti-racist children:
 
 #### Books:
  🖍️📗  [Coretta Scott King Book Award Winners: books for children and young adults](https://www.commonsensemedia.org/lists/coretta-scott-king-book-award-winners)
