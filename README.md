@@ -172,6 +172,8 @@ by Grace Lee Boggs
 
 🍿 Fruitvale Station (Ryan Coogler) — Available to rent
 
+🍿 Green Book (2018) (Peter Farrelly) - Amazon Prime
+
 🍿 I Am Not Your Negro (James Baldwin doc) — Available to rent or on Kanopy
 
 🍿 If Beale Street Could Talk (Barry Jenkins) — Hulu
