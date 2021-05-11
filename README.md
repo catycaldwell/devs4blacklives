@@ -3,7 +3,7 @@ Please share broadly and add additional resources.
 BLACK LIVES MATTER!
 -->
 
-# devdiv4blacklives
+# Devs4blacklives
 <table style="width: 100%; border-style: none;"><tr>
 <td style="width: 140px; text-align: center;"><a href=""><img width="128px" src="blmvs.png" alt="DevDiv 4 Black Lives"/></a></td>
 <td>
