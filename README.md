@@ -10,7 +10,7 @@ BLACK LIVES MATTER!
 <strong><a href="https://catycaldwell.github.io">Learn more. Listen More. Do More!</a></strong></i>
 </td>
 </tr></table>
-This repository offers the entire DevDiv community a starting point to educate themselves on the challenges created by systemic racial injustice. This is a collaborative effort, so please add these resources. Use these materials, add others that aren't included, and remember to listen to Black friends and colleagues about what it is _they_ need for support.
+This repository offers the entire Developer community a starting point to educate themselves on the challenges created by systemic racial injustice. This is a collaborative effort, so please add these resources. Use these materials, add others that aren't included, and remember to listen to Black friends and colleagues about what it is _they_ need for support.
 
 Icons for adding Resources
 --------
